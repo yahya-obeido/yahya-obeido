@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yahya Obeido
 - 👀 I’m interested in Robotics, Embedded Systems, IOT, Cyber Security, 3D Design, Electronics, AI & ML
-- 🌱 I’m currently learning Embedded Systems
+- 🌱 I’m currently learning ROS2
 - 📫 How to reach me https://www.linkedin.com/in/yahya-obeido/
 
 <!---
